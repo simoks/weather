@@ -1,16 +1,14 @@
 //
-//  ViewController.h
+//  Astronomy.m
 //  weather.forecast
 //
 //  Created by kouissi mohamed on 14/08/15.
 //  Copyright (c) 2015 kouissi mohamed. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#import "WeatherManager.h"
+#import "Astronomy.h"
 
-@interface ViewController : UIViewController <WeatherManagerDelegate>
+@implementation Astronomy
 
 
 @end
-
